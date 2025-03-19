@@ -4,5 +4,5 @@ In this repository I'll document my progress in cybersecurity while using [TryHa
 
 ## Current Achievements
 
-[Pre Security Certificate (March 2025)](Certificates/Pre-Security-Certificate.md): **Credential ID:** THM-BE3HDRFHEI
+[Pre Security Certificate (March 2025)](Certificates/Pre%20Security%20Certificate.md): **Credential ID:** THM-BE3HDRFHEI
 
