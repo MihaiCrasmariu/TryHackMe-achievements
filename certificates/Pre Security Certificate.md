@@ -57,12 +57,12 @@
 
  ###  🔹SECTION 4
 
--Linux Fundamentals Part 1
+-Linux Fundamentals Part 1  
 -Linux Fundamentals Part 2  
 -Linux Fundamentals Part 3  
 
  ###  🔹SECTION 5
 
 -Windows Fundamentals 1  
--Windows Fundamentals 2
--Windows Fundamentals 3 
+-Windows Fundamentals 2  
+-Windows Fundamentals 3  
